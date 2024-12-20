@@ -1,0 +1,7 @@
+default-of-credit-card-clients - Id,gender column removed
+glass-identification - id removed
+hepatitis - replace the cells having value '?' with mean value.
+dermatology dataset - replace the cells having value '?' with mean value.
+Indian Liver Patient Dataset (ILPD) - gender column removed
+yeast - Sequence_Name column removed
+zoo - animal_name column removed
